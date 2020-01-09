@@ -1,7 +1,7 @@
 import dva from 'dva';
 import './index.css';
 
-// 1. Initialize
+// 1. Initialize,初始化
 const app = dva();
 
 // 2. Plugins
